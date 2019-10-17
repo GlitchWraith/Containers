@@ -1,0 +1,15 @@
+[submodule "Service-Base-SteamCMD"]
+	path = Service-Base-SteamCMD
+	url = https://github.com/GlitchWraith/Service-Base-SteamCMD.git
+[submodule "Service-GameServer-GMod"]
+	path = Service-GameServer-GMod
+	url = https://github.com/GlitchWraith/Service-GameServer-GMod.git
+[submodule "Service-GameServer-GMod-TTT"]
+	path = Service-GameServer-GMod-TTT
+	url = https://github.com/GlitchWraith/Service-GameServer-GMod-TTT.git
+[submodule "Service-GameServer-TF2"]
+	path = Service-GameServer-TF2
+	url = https://github.com/GlitchWraith/Service-GameServer-TF2.git
+[submodule "Service-DDNS-DigitalOcean"]
+	path = Service-DDNS-DigitalOcean
+	url = https://github.com/GlitchWraith/Service-DDNS-DigitalOcean.git
